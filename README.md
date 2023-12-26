@@ -16,13 +16,20 @@
 ## 📌 프로젝트 구성
 
 1. 주가 예측 모델 만들기
-2. 포트폴리오 구성 모델 만들기 
+2. 포트폴리오 구성 모델 만들기
+3. 캔들스틱을 활용한 주가예측
 
-두 가지로 진행하고 있습니다! 
+세 가지로 진행하고 있습니다! 
 모두 함께 예측 모델을 만들며, 각각 기술적 지표들을 구해 csv파일에 열 추가하며 진행하고 있습니다.
 
 ## 📌 프로젝트 관련 자료
 
-[https://inv42195.tistory.com/m/](https://inv42195.tistory.com/m/7)7
+[https://inv42195.tistory.com/m/]
+
+(https://inv42195.tistory.com/m/7)7
 
 https://inv42195.tistory.com/m/8
+
+https://dataplay.tistory.com/36
+
+
